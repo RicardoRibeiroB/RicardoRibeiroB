@@ -17,4 +17,4 @@
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div><br>
 
-Buscando aprender todos os dias, o sucesso é o acumulo de pequenos esforços repetidos todos os dias.
+Buscando aprender todos os dias, o sucesso é o acúmulo de pequenos esforços repetidos todos os dias.
